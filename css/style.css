@@ -1,0 +1,114 @@
+@import url(m_style.css);
+.center {
+  margin: 0 auto;
+}
+.header {
+  width: 777px;
+  height: 60px;
+  background: none;
+  margin: 0 auto;
+  margin-top: 12px;
+}
+.header .tu {
+  width: 146px;
+  height: 60px;
+  background: none;
+  float: left;
+}
+.header .sea {
+  width: 612px;
+  height: 60px;
+  background: none;
+  float: right;
+}
+.header .sea form .text {
+  width: 298px;
+  height: 22px;
+}
+.header .sea form p {
+  width: 58px;
+  height: 13px;
+  background: none;
+  float: right;
+}
+.header .nav {
+  width: 320px;
+  height: 20px;
+  background: none;
+  float: left;
+}
+.header .nav li {
+  float: left;
+  line-height: 12px;
+  padding: 0 5px;
+  font-size: 13px;
+  line-height: 20px;
+}
+.nav {
+  width: 777px;
+  height: 25px;
+  background: none;
+  margin: 0 auto;
+}
+.nav li {
+  float: left;
+  border-bottom: 2px solid #cfcfcf;
+  line-height: 26px;
+  padding: 0 11px;
+  font-size: 13px;
+  text-align: center;
+}
+.two {
+  width: 777px;
+  height: 351px;
+  background: none;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.two .left {
+  width: 321px;
+  height: 351px;
+  background: none;
+  float: left;
+}
+.two .left .up form {
+  line-height: 30px;
+}
+.two .left .up form p {
+  float: right;
+  margin-right: ;
+}
+.two .left .up h3 {
+  margin-top: 20px;
+}
+.two .left .up li {
+  font-size: 12px;
+  margin-top: 6px;
+}
+.two .left .down h3 {
+  margin-top: 20px;
+}
+.two .left .down li {
+  font-size: 12px;
+  margin-top: 6px;
+}
+.two .right {
+  width: 426px;
+  height: 351px;
+  background: none;
+  float: right;
+}
+.two .right form h3 {
+  margin-top: 13px;
+  line-height: 5px;
+}
+.two .right form p {
+  float: right;
+  line-height: 1px;
+}
+.two .right .down {
+  width: 440px;
+  height: 72px;
+  background: none;
+  margin-top: 16px;
+}
